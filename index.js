@@ -33,12 +33,20 @@ async function run() {
     const database = client.db("travelDB");
     const userCollection = database.collection("user");
 
+    app.get('/bookings', async(req,res)=>{
+      const cursor=userCollection.find();
+      const result= await cursor.toArray();
+      res.send(result);
+    })
+    
+
     app.post('/bookings', async(req, res)=>{
       const user=req.body;
       console.log(user);
       const result= await userCollection.insertOne(user);
       res.send(result);
     })
+
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
