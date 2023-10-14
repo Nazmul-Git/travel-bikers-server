@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "placeName": "Cox's Bazar Chittagong",
+      "rating":4.5,
+      "categoryId": 2,
+      "title": "Cox's Bazar is a city, fishing port, tourism centre, and district headquarters in Southeastern Bangladesh. The iconic Cox's Bazar Beach, one of the most popular tourist attractions in Bangladesh, is the longest uninterrupted beach in the world.",
+      "date": "2023-09-17",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/e6/55/b4/there-also-are-alternative.jpg?w=1200&h=-1&s=1",
+      "details": {
+        "thumbUrl1":"https://i.ytimg.com/vi/lrfmqtWZWUM/maxresdefault.jpg",
+        "thumbUrl2":"https://i.pinimg.com/originals/9b/31/1f/9b311fb8fae8f615554d8abde02aa37d.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "placeName": "Sylhet",
+      "rating":4,
+      "categoryId": 2,
+      "title": "Lakkatura Tea Garden is located near Osmani Airport in Chowkidhenki Upazila of Sylhet District. Lakkatura Tea Garden is the green forest surrounding the northern edge of Sylhet city.",
+      "date": "2023-09-18",
+      "imageUrl": "https://i.pinimg.com/originals/b8/09/83/b8098387dcd3f817c564e2a6a7b1eb23.jpg",
+      "details": {
+        "thumbUrl1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/c6/38/7b/ratargul-swamp-forest.jpg?w=1200&h=-1&s=1",
+        "thumbUrl2":"https://i.pinimg.com/736x/6b/a9/77/6ba97749dd9f8e5021f8967846af5e36.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "placeName": "Sajek Valley",
+      "rating":5,
+      "categoryId": 3,
+      "title": "Sajek Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.",
+      "date": "2023-09-19",
+      "imageUrl": "https://i.ytimg.com/vi/HqH0PsSI3B4/maxresdefault.jpg",
+      "details": {
+        "thumbUrl1":"https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FQPLuibXogkvvF1lH3pcGZWhNsQfh5OSSTuudDk5YPv4.jpg%3Fauto%3Dwebp%26s%3Dc70aba1613aa22baec40282ad81f61a4fdd91743&rdt=39156",
+        "thumbUrl2":"https://i.ytimg.com/vi/CIFdCeoWMAM/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "placeName": "Bandarban",
+      "rating":4.5,
+      "categoryId": 3,
+      "title": "Bandarban is a district in South-Eastern Bangladesh, and a part of the Chittagong Division.",
+      "date": "2023-09-20",
+      "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/YOgeC3qZ3FxpVUkTwqoQHkiUsZI=/fit-in/1072x0/https://tf-cmsv2-photocontest-smithsonianmag-prod-approved.s3.amazonaws.com/1cbc56185fed7b238e5574fd469737251a81d545.jpg",
+      "details": {
+        "thumbUrl1":"https://bdsearcher.com/wp-content/uploads/2017/08/Keokradong-Hill-Bandarban.jpg",
+        "thumbUrl2":"https://i.pinimg.com/originals/70/6d/d9/706dd9e45db7ac7e73f661ea179ff0f7.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "placeName": "Lalbag Fort",
+      "rating":3.5,
+      "categoryId": 1,
+      "title": "Lalbagh Fort is a fort in the old city of Dhaka, Bangladesh. Its name is derived from its neighborhood Lalbagh, which means Red Garden.",
+      "date": "2023-09-21",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/96/b1/e1/the-tomb-of-bibi-pari.jpg?w=1200&h=-1&s=1",
+      "details": {
+        "thumbUrl1":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/89/fd/71/a-view-from-a-resto-in.jpg?w=1200&h=-1&s=1",
+        "thumbUrl2":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c4/a0/ce/caption.jpg?w=1200&h=-1&s=1"
+      }
+    },
+    {
+      "id": 6,
+      "placeName": "Kashmir, India",
+      "rating":5,
+      "categoryId": 5,
+      "title": "Kashmir is the northernmost geographical region of the Indian subcontinent.",
+      "date": "2023-09-22",
+      "imageUrl": "https://www.sharpholidays.in/blog/wp-content/uploads/2021/01/kashmir-valley.jpg",
+      "details": {
+        "thumbUrl1":"https://images.thrillophilia.com/image/upload/s--X_uh4x5K--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/286/623/original/1590650660_shutterstock_1139375546.jpg.jpg?1590650660",
+        "thumbUrl2":"https://www.worldatlas.com/upload/70/33/ab/shutterstock-115227475.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "placeName": "Kuakata Sea Beach",
+      "rating":3.9,
+      "categoryId": 3,
+      "title": "Kuakata is a town in southern Bangladesh known for its panoramic sea beach. Kuakata beach is a sandy expanse 18 kilometres long and 3 kilometres wide. ",
+      "date": "2023-09-23",
+      "imageUrl": "https://images6.fanpop.com/image/photos/41700000/Kuakata-Bangladesh-beaches-41724846-1280-720.jpg",
+      "details": {
+        "thumbUrl1":"https://1.bp.blogspot.com/-mrf0AThvvaY/WbQWX6VorLI/AAAAAAAAFjA/YTfI3lGE4e0vtIzEk7kdFswFzZeUWqcpwCLcBGAs/s1600/19554133_1221772777956513_8613479679674820876_n.jpg",
+        "thumbUrl2":"https://4.bp.blogspot.com/-PHdj7My4yus/WbQWHFObYxI/AAAAAAAAFi8/723vOwX_mLQn5GLaSRebyY2nfVOCVFT7ACLcBGAs/s1600/21271037_697748977080864_8247507069934884766_n.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "placeName": "Nepal",
+      "rating":4.7,
+      "categoryId": 5,
+      "title": "Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. ",
+      "date": "2023-09-24",
+      "imageUrl": "https://travelpoint.co.nz/wp-content/uploads/2018/08/1.jpg",
+      "details": {
+        "thumbUrl1":"https://s1.picswalls.com/wallpapers/2014/08/08/nepal-desktop-wallpapers_020619663_168.jpg",
+        "thumbUrl2":"https://www.honeymoonbug.com/blog/wp-content/uploads/2018/06/Pokhara.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "placeName": "Nikli Haor Kishoreganj",
+      "rating":2.9,
+      "categoryId": 1,
+      "title": "Nikli Haor is one of the most beautiful among them. It is located in Nikli Upazila of Kishoreganj district. Dusky dunes and cropland can be seen in the dry season. But when the rainy season comes, all the lands fulfill with waters. Wherever eye sees, everywhere just water and water.",
+      "date": "2023-09-25",
+      "imageUrl": "https://i.ytimg.com/vi/ZwmFNTMs7kI/maxresdefault.jpg",
+      "details": {
+        "thumbUrl1":"https://i.ytimg.com/vi/7U1kZ1zZGic/maxresdefault.jpg",
+        "thumbUrl2":"https://i.ytimg.com/vi/g0vbdh4A_h0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "placeName": "Kaptai Lake",
+      "rating":3.8,
+      "categoryId": 101,
+      "title": "Kaptai Lake is the largest man made lake in Bangladesh. It is located in the Kaptai Upazila under Rangamati District of Chittagong Division.",
+      "date": "2023-09-26",
+      "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/nSkm26wFuyjirt4ob9VF-scVcnk=/fit-in/1072x0/https://tf-cmsv2-photocontest-smithsonianmag-prod-approved.s3.amazonaws.com/1cf9b857-b4bd-4b5a-9681-421df6fefae8.jpg",
+      "details": {
+        "thumbUrl1":"https://live.staticflickr.com/3767/9067973123_e4875603b7_b.jpg",
+        "thumbUrl2":"https://i.pinimg.com/originals/65/d6/57/65d6575b662f1ea7499ed7f488044f5f.jpg"
+      }
+    }
+  ]
+  

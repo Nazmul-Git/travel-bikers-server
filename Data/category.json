@@ -1,0 +1,8 @@
+[
+    {"id": 0, "categoryName": "All Category"},
+    {"id": 1, "categoryName": "1 Day Tour"},
+    {"id": 2, "categoryName": "3 Days Tour"},
+    {"id": 3, "categoryName": "5 Days Tour"},
+    {"id": 4, "categoryName": "One Week"},
+    {"id": 5, "categoryName": "Long Tour"}
+]
