@@ -29,9 +29,15 @@ async function run() {
     // Connect the client to the server	(optional starting in v4.7)
     await client.connect();
 
-    app.post('/booking', async(req, res)=>{
-      const bookingUser=req.body;
-      console.log(bookingUser);
+
+    const database = client.db("travelDB");
+    const userCollection = database.collection("user");
+
+    app.post('/bookings', async(req, res)=>{
+      const user=req.body;
+      console.log(user);
+      const result= await userCollection.insertOne(user);
+      res.send(result);
     })
 
     // Send a ping to confirm a successful connection
@@ -42,7 +48,7 @@ async function run() {
     // await client.close();
   }
 }
-run().catch(console.dir);
+run().catch(console.log);
 
 
 app.get('/', (req, res) => {
